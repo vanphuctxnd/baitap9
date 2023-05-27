@@ -1,0 +1,8 @@
+C:\Users\vanph\source\repos\demooooo_o\bin\Debug\demooooo_o.exe.config
+C:\Users\vanph\source\repos\demooooo_o\bin\Debug\demooooo_o.exe
+C:\Users\vanph\source\repos\demooooo_o\bin\Debug\demooooo_o.pdb
+C:\Users\vanph\source\repos\demooooo_o\obj\Debug\demooooo_o.csproj.AssemblyReference.cache
+C:\Users\vanph\source\repos\demooooo_o\obj\Debug\demooooo_o.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanph\source\repos\demooooo_o\obj\Debug\demooooo_o.csproj.CoreCompileInputs.cache
+C:\Users\vanph\source\repos\demooooo_o\obj\Debug\demooooo_o.exe
+C:\Users\vanph\source\repos\demooooo_o\obj\Debug\demooooo_o.pdb
